@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="your_result">Ваш результат: %1$s/%2$s</string>
+    <string name="you_passed_test">Вы прошли тест!</string>
+    <string name="go_again">Пройти Заново</string>
+    <string name="view_errors">Разобрать ошибки</string>
+    <string name="error_parsing">Разбор ошибок</string>
+    <string name="go_back">Назад</string>
+    <string name="question">Вопрос</string>
+    <string name="your_answer">Ваш ответ</string>
+    <string name="correct_answer">Правильный ответ</string>
+    <string name="comment">Комментарий</string>
+    <string name="previous_question">Предыдущий вопрос</string>
+    <string name="quizzes">Тесты</string>
+    <string name="quiz_completed">Тест пройден</string>
+    <string name="loading">Загрузка...</string>
+    <string name="loading_error">Ошибка загрузки</string>
+    <string name="check_connection">Проверьте свое подключение к сети</string>
+</resources>
